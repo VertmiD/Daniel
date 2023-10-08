@@ -1,0 +1,30 @@
+body {
+    display: block;
+    text-align: center;
+}
+
+.top-container {
+    display:"flex";
+    flex-direction: column;
+    justify-content: center;
+    background-color:rgb(240, 246, 255);
+}
+
+.Resume {
+    display:"inline";
+
+}
+
+.Hobbies {
+    display:"Inline-Block";
+}
+
+h1,h2 {
+    color: #5f7bda;
+    font-family: "Skranji", cursive;
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 50px auto 0 auto;
+}
